@@ -1,7 +1,7 @@
 Projects
 =======
-*Mill
-*Next photo rig build
-*Violin
-*Neural probe
-*
+* Mill
+* Next photo rig build
+* Violin
+* Neural probe
+* 
