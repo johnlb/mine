@@ -1,6 +1,6 @@
 BOM
 =====
-  * Choose computer
-  * Choose interface card
-  * Choose control style - double or single closed loop
+  * Choose computer - done
+  * Choose interface card - done
+  * Choose control style - single
   * Fill out BOM
