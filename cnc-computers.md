@@ -1,3 +1,8 @@
+Latency Info
+=====
+http://wiki.linuxcnc.org/cgi-bin/wiki.pl?Latency-Test
+
+
 Mainboard + Processor
 =====
 * Intel D945GCLF2 - Atom 330 550MHz 2x
@@ -32,3 +37,8 @@ HDD
   - http://www.newegg.com/Product/Product.aspx?Item=N82E16820171667
   
   
+PSU
+===
+* Athena power 250W
+  - http://www.newegg.com/Product/Product.aspx?Item=N82E16817338045
+  - $30
